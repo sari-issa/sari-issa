@@ -16,7 +16,7 @@ I'm currently pursuing my MSc at ETH Zurich, specializing in Machine Learning an
 
 ## 🚀 Projects
 
-Here are some notable projects I've worked on:
+Here are some projects I've worked on:
 
 - **[Semantics-Informed Group Interventions for Concept Bottleneck Models](https://github.com/sari-issa/semantic-CBM):** We introduce a semantics-informed clustered realignment framework for Concept Bottleneck Models (CBMs), enhancing interpretability by constraining interventions to semantically meaningful groups while maintaining competitive performance.
 Co-authors: Mihal Mikuta, Mikael Makonnen, Max Buckley
