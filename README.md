@@ -1,11 +1,7 @@
 ## 👋 Hi there, I'm Sari Issa!
 
 
-I'm currently pursuing my MSc at ETH Zurich, specializing in Machine Learning and Deep Learning, with a keen interest in their applications in Genomics and Healthcare.
-
-- 🔭 **Current Focus:** My Master thesis focuses on interpretable graph representation learning framework for tumor microenviroment modelling. It is a collaboration between the Rapsomaniki Lab at CHUV (AI/ML for Biomedicine) and Boeva Lab at ETH Zurich (Computational Cancer Genomics)
-- 🌱 **Learning Journey:** Learning all about Deep Learning techniques for Genomics and Healthcare applications.
-- 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/sari-issa/)
+I am a doctoral candidate at the EcoVision Lab at DM3L in the University of Zurich. My project focuses on CO2/NOx emissions monitoring from point sources using satellite data.
 
 ## 🛠️ Technologies & Tools
 
